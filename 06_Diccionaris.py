@@ -1,4 +1,4 @@
-#Diccionaris: estructura per emmagatzema dades amb relació clau-valor
+# Diccionaris: Estructura per emmagatzemar dades amb relació clau-valor
 
 my_dict = dict()
 my_other_dict = {}

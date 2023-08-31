@@ -1,3 +1,5 @@
+# Llista: Conjunt de valors
+
 mylist = list()
 my_other_list = [3, 4]
 mylist = ["Jordi", "Sergi", "Mama", "Papa"]

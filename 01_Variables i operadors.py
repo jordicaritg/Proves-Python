@@ -5,10 +5,9 @@ print(2+3)
 print(type(True))
 mi_variable = 10
 print(mi_variable)
-import time
 
+import time  #Comptador fet per ChatGPT
 contador = 2
-
 while contador >= 0:
     print(contador)
     time.sleep(1)  # Espera 1 segundo

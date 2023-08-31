@@ -1,4 +1,4 @@
-# tupla és un conjunt de valors, però que són immutables
+# Tupla: Conjunt de valors, però que són immutables
 
 my_tuple = tuple()
 my_other_tuple = ()
